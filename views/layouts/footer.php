@@ -12,6 +12,7 @@
     <title>Document</title>
 </head>
 <body>
+<footer id="footer">
     <div class="contenedor footer-contenido">
         <div class="contactenos">
             <h2 class="marca">Estudio SN</h2>
@@ -34,6 +35,7 @@
         </div>
     </div>
     <div class="linea"></div>
+</footer>
 
     
 </body>

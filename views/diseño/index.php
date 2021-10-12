@@ -7,10 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <?php require 'views/header.php' ?>
+    <?php require 'views/layouts/header.php' ?>
 
-    <?php require 'views/diseño.php' ?>
+    <?php require 'views/layouts/diseño.php' ?>
     
-    <?php require 'views/footer.php' ?>
+    <?php require 'views/layouts/footer.php' ?>
 </body>
 </html>
