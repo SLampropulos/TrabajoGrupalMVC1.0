@@ -9,7 +9,7 @@
 <body>
     <?php require 'views/header.php' ?>
 
-    <?php require 'views/inicio.php' ?>
+    <?php require 'views/equipo.php' ?>
     
     <?php require 'views/footer.php' ?>
 </body>

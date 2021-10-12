@@ -35,7 +35,6 @@
     </div>
     <div class="linea"></div>
 
-    <script src="public/js/menu.js"></script>
-    <script src="public/js/lightbox.js"></script>
+    
 </body>
 </html>

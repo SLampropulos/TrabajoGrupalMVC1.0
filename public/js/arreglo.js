@@ -43,7 +43,7 @@ texto_html = texto_html +  `
             
                     <h3 class="subtitulo-arreglo">  ${element.html_h3} </h3>
                     <div class="contenedor-galeria">
-                    <img src="img/${element.img_src}" alt="${element.img_alt}" class="img-galeria">
+                    <img src="public/img/${element.img_src}" alt="${element.img_alt}" class="img-galeria">
                     <a class="nav" href="${element.a_html}" >Leer mas</a>
                     </div>
                      
