@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>web dinamica</title>
-    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="public/css/default.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
@@ -56,24 +56,25 @@
             <h2 class="subtitulo">Nuestro Trabajo</h2> 
             <div id="galeria1">
                 
-                <script  src="js/arreglo.js"></script>
+                <script  src="public/js/arreglo.js"></script>
                
             </div>
                 
         </section>
             
         <section class="imagen-light">
-             <img src="img/cerrar.svg" alt="" class="cerrar">
-             <img src="img/Finance analytics _Monochromatic.svg" alt="" class="agregar-imagen">
+             <img src="public/img/cerrar.svg" alt="" class="cerrar">
+             <img src="public/img/Finance analytics _Monochromatic.svg" alt="" class="agregar-imagen">
         </section> 
 
+       
         
 
 
 
     </main>
     
-
+    <script src="public/js/lightbox.js"></script>
     
 
 </body>

@@ -1,5 +1,5 @@
 var texto_header_html = `         
-<img src="img/abrir.svg" alt="" class="abrir">
+<img src="public/img/abrir.svg" alt="" class="abrir">
 <nav class="menu-nav">
     <a href="index.html">Inicio</a>
     <a href="servicio.html">Servicio</a>

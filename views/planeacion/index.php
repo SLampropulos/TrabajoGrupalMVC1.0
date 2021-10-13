@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>ayuda</h1>
+    <?php require 'views/layouts/header.php' ?>
+
+    <?php require 'views/layouts/planeacion.php' ?>
+    
+    <?php require 'views/layouts/footer.php' ?>
 </body>
 </html>
